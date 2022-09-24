@@ -1,0 +1,230 @@
+*{
+    margin: 0;
+    padding: 0;}
+
+
+ .mpage
+      {
+    background-image:linear-gradient(rgba(0,0,0,0.2),#009688),url(img/v1.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 1;
+     }
+ .text{
+    text-align: center;
+       color: #fff;
+       padding-top: 150px;
+}
+.text h1{
+    font-size: 100px;
+    font-family: 'Kaushan Script', cursive;
+    cursor: pointer;
+    
+ }
+ .text h2{
+ font-size: 50px;
+ font-style: italic;
+
+ }
+ .text a{
+    font-size: 20px;
+    margin: 50px auto 0;
+    width: 150px;
+    text-decoration: none;
+    display: inline-block;
+    margin: 0 10px;
+    padding: 12px 0;
+    color: #fff;
+    border: .5px solid rgb(60, 189, 189);
+    position:static;
+    
+    cursor: pointer;
+    
+    
+
+ }
+ 
+
+
+ /*------gatha mandir---------*/
+ .Features{
+    background-color: cornflowerblue;
+ }
+ .feature{
+    
+    text-align: center;
+ }
+ .feature h1{
+    
+    font-size: 40px;
+    color:forestgreen;
+ }
+ .feature h2{
+    margin-bottom: 4px;
+ }
+ 
+ .imgs{
+    margin-top: 5px;
+    position: relative;
+    padding-left: 40px;
+    
+ }
+
+        /*------------modi------------*/
+
+
+ .f2{
+    margin-top: 5px;
+ }
+ .maha{
+    text-align: center;
+    
+ }
+ .maha h1{
+    font-size: 40px;
+    
+ }
+ .modi{
+    margin-left: 40px;
+ }
+ /*----------------shila mandir-------------------*/
+
+ .sm{
+    margin-top: 7px;
+    margin-bottom: 5px;
+    text-align: center;
+ }
+ .sm h1{
+    font-size: 40px;
+    
+ }
+ .ism{
+    margin-left:40px;
+ }
+ .page{
+    text-align: center;
+ }
+
+ /*--------------page--------*/
+ .page{
+    background-image:linear-gradient(rgba(0,0,0,0.2),#4ca299),url(img/t3.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 1;
+     }
+ .page  p{
+    text-align:center;
+    font-size: 20px;
+    margin-top: 170px;
+    color: aliceblue;
+    font-style:oblique;
+
+    
+
+ }
+ .page h1{
+    font-size: 75px;
+    font-style: italic;
+    margin-bottom: 20px;
+    color: floralwhite;
+    text-decoration: underline;
+ }
+ .ing h1{
+    text-align: center;
+    font-size: 55px;
+    font-style: oblique;
+    color: floralwhite;
+    text-shadow:black;
+    text-decoration: underline;
+    
+ }
+ .ing{
+    background-image:linear-gradient(rgba(0,0,0,0.2),#4ca299),url(img/m4.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 1;
+ }
+ .ing a{
+    text-align: center;
+    text-decoration: double;
+    font-size: large;
+    
+
+ }
+ .ing p{
+    font-size: 25px;
+    color: floralwhite;
+    font-style: oblique;
+    margin-top: 250px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+ }
+ .ing p a {
+    
+    text-decoration: underline;
+    font-size: 25px;
+    color: darkgreen;
+
+ }
+ .page p a{
+   text-decoration: underline;
+   font-size: 25px;
+   color: darkgreen;
+   
+ }
+ .gatha{
+   background-image:linear-gradient(rgba(0,0,0,0.2),#4ca299),url(img/g1.webp);
+   background-size: cover;
+    background-position: center;
+    height: 100vh;
+    opacity: 1;
+    
+ }
+ .gatha h1{
+   text-align: center;
+   font-size: 40px;
+   color: white;
+   text-decoration: none;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   word-spacing: 2px;
+ }
+ .gatha h2{
+   text-align: center;
+   font-style: italic;
+   margin-top: 9px;
+   font-size: 35px;
+ }
+ .gatha p{
+   text-align: center;
+   margin-top: 8px;
+   font-size: 22px;
+ }
+ .gatha a{
+   font-size: 25px;
+   color: green;
+   text-decoration: underline;
+ }
+.vi h1{
+   text-align: center;
+   font-size: 35px;
+   
+}
+.vi video{
+   margin-left: 5px;
+   margin-right: 5px;
+   margin-top: 10px;
+   box-sizing: border-box;
+}
+.vi a{
+   text-align: center;
+   color: green;
+   font-size: 25px;
+}
+
+
+
+ 
